@@ -49,8 +49,7 @@ keywords = [
 "How does space change a human body", "Impacts of space", "How does microgravity impact a body",
 "Microgravity", "When are we going to Mars", "The problems with going to Mars",
 "Technical challenges with going to Mars", "Next Mars mission", "Next space mission",
-"migration mars", migration to mars",
-"why we migrated to mars", "why we left earth", "life on mars"
+"why we migrated to mars", "why we left earth"
 
 ]
 
